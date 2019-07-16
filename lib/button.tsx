@@ -1,7 +1,7 @@
 import React from 'react'
 function Button() {
   return (
-    <div>button</div>
+    <div>button 2</div>
   )
 }
 
