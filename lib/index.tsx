@@ -2,4 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import Icon from './icon'
 
-ReactDOM.render(<Icon name="my icon"></Icon>, document.getElementById('root'))
+ReactDOM.render(<div>
+  <Icon name="wechat"></Icon>
+  <Icon name="alipay"></Icon>
+</div>, document.getElementById('root'))

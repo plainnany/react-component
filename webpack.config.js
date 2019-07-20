@@ -17,6 +17,14 @@ module.exports = {
       {
         test: /\.tsx?$/,
         loader: 'awesome-typescript-loader'
+      },
+      {
+        test: /\.svg$/,
+        loader: 'svg-sprite-loader',
+      },
+      {
+        test: /\.s([ac])ss$/,
+        loader: ['style-loader', 'css-loader', 'sass-loader']
       }
     ]
   },
