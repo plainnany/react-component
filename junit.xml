@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" time="29.489">
+  <testsuite name="我的第一个测试用例" errors="0" failures="0" skipped="0" timestamp="2019-07-22T13:55:25" time="10.996" tests="1">
+    <testcase classname="我的第一个测试用例 1 + 1等于2" name="我的第一个测试用例 1 + 1等于2" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="button" errors="0" failures="0" skipped="0" timestamp="2019-07-22T13:55:36" time="2.781" tests="1">
+    <testcase classname="button 是个div" name="button 是个div" time="0.028">
+    </testcase>
+  </testsuite>
+  <testsuite name="classnames" errors="0" failures="0" skipped="0" timestamp="2019-07-22T13:55:39" time="7.575" tests="3">
+    <testcase classname="classnames 接收一个className" name="classnames 接收一个className" time="0.001">
+    </testcase>
+    <testcase classname="classnames 接收一个多个" name="classnames 接收一个多个" time="0.001">
+    </testcase>
+    <testcase classname="classnames 接收一个包含falsy的字符串" name="classnames 接收一个包含falsy的字符串" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="icon" errors="0" failures="0" skipped="0" timestamp="2019-07-22T13:55:47" time="1.487" tests="2">
+    <testcase classname="icon 是个icon render successfully" name="icon 是个icon render successfully" time="0.006">
+    </testcase>
+    <testcase classname="icon 触发点击事件" name="icon 触发点击事件" time="0.112">
+    </testcase>
+  </testsuite>
+</testsuites>
