@@ -1,7 +1,7 @@
 import React from 'react'
 function Button() {
   return (
-    <div>button 2</div>
+    <div>一个测试button</div>
   )
 }
 
